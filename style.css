@@ -1,0 +1,136 @@
+.r1{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+select{
+    background-color: black;
+    color: white;
+}
+
+.background{
+    background-color: black;
+    padding: 20px;
+
+}
+
+.message{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    padding: 20px;
+    margin-left: 10%;
+}
+
+.r2{
+   
+    background-color: rgb(48, 63, 63);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#learn{
+    color: white;
+     background-color: blueviolet;
+     border-radius: 10px;
+    
+}
+
+#learn:hover{
+    color: blue;
+}
+
+.products{
+    margin-left: 10%;
+    padding: 30px;
+}
+
+.product1{
+    margin: 5%;
+}
+
+.product2{
+    margin: 5%;
+}
+
+.product3{
+    margin: 5%;
+}
+
+.video{
+    background-image: url(./banner.jpeg);
+    background-size: cover;
+    padding: 40px;
+    color: white;
+}
+
+#videobutton{
+    color: blue;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+#button{
+    background-color: rgb(51, 48, 48);
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.features{
+    background-color: rgb(247, 242, 253);
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.feature{
+    padding-top: 30px;
+}
+
+.icon{
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.casestudies{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 40px;
+}
+
+.cncf{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.subscribe{
+    background-color: rgb(232, 241, 248);
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+#subbutton{
+    border-radius: 10px;
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+.footer{
+    background-color:  rgb(48, 63, 63);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-size: smaller;
+}
